@@ -1,9 +1,7 @@
 
-# Hi, I'm <NaniRongali>! 👋
+# Hi, I'm NaniRongali! 👋
 
 I am Nani a passionate B Tech ECE student at Acharya Nagarjuna University, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![<NaniRongali>'s Stats](https://github-readme-stats.vercel.app/api?username=<NaniRongali>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -11,7 +9,7 @@ I am Nani a passionate B Tech ECE student at Acharya Nagarjuna University, drive
 - ✍️ Content Writer at [Lets_Learn](https://www.youtube.com/@Nani_Rongali), gearing up to share valuable insights with the global coding community.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,springboot,figma,bootstrap,git,github,mongodb,mysql,postman&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,figma,bootstrap,git,github,mongodb,mysql,postman&perline=3)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
