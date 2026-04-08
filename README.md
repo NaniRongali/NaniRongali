@@ -6,10 +6,10 @@ I am Nani a passionate B Tech ECE student at Acharya Nagarjuna University, drive
 ## 🚀 About Me
 
 - 🔭 I'm graduated in the Month of June 2023 Under the Branch of Electronics and Communication Engineering with the CGPA of 8.7.
-- ✍️ Content Writer at [Lets_Learn](https://www.youtube.com/@Nani_Rongali), gearing up to share valuable insights with the global coding community.
+- ✍️ Content Writer at [Lets_Learn](https://www.youtube.com/@Learn_WithNani), gearing up to share valuable insights with the global coding community.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,figma,bootstrap,git,github,mongodb,mysql,postman&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,figma,bootstrap,git,github,nextjs,mysql,postman&perline=3)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
